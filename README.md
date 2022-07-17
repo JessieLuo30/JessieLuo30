@@ -20,14 +20,14 @@ I'm a creative problem solving enthusiast with a constantly growing curiosity. A
 
 
 ## Main Languages
-<a target="_blank"><img height="30" src="https://github.com/JessieLuo30/JessieLuo30/blob/main/languages/c.png"></a>&nbsp;
-<a target="_blank"><img height="30" src="https://github.com/JessieLuo30/JessieLuo30/blob/main/languages/sql.png"></a>&nbsp;
-<a target="_blank"><img height="30" src="https://github.com/JessieLuo30/JessieLuo30/blob/main/languages/react.png"></a>&nbsp;
-<a target="_blank"><img height="30" src="https://github.com/JessieLuo30/JessieLuo30/blob/main/languages/js.png"></a>
-<a target="_blank"><img height="30" src="https://github.com/JessieLuo30/JessieLuo30/blob/main/languages/java.png"></a>&nbsp;
+<a target="_blank" href="https://jessie-luo-portfolio.netlify.app/portfolio/backend"><img height="30" src="https://github.com/JessieLuo30/JessieLuo30/blob/main/languages/c.png"></a>&nbsp;
+<a target="_blank" href="https://jessie-luo-portfolio.netlify.app/portfolio/databases"><img height="30" src="https://github.com/JessieLuo30/JessieLuo30/blob/main/languages/sql.png"></a>&nbsp;
+<a target="_blank" href="https://jessie-luo-portfolio.netlify.app/portfolio/frontend"><img height="30" src="https://github.com/JessieLuo30/JessieLuo30/blob/main/languages/react.png"></a>&nbsp;
+<a target="_blank"  href="https://jessie-luo-portfolio.netlify.app/portfolio/frontend"><img height="30" src="https://github.com/JessieLuo30/JessieLuo30/blob/main/languages/js.png"></a>
+<a target="_blank"  href="https://jessie-luo-portfolio.netlify.app/portfolio/backend"><img height="30" src="https://github.com/JessieLuo30/JessieLuo30/blob/main/languages/java.png"></a>&nbsp;
 
 ## Other Technologies & Tools
-<a target="_blank"><img height="30" src="https://github.com/JessieLuo30/JessieLuo30/blob/main/languages/tailwind.png"></a>&nbsp;
+<a target="_blank" ><img height="30" src="https://github.com/JessieLuo30/JessieLuo30/blob/main/languages/tailwind.png"></a>&nbsp;
 <a target="_blank"><img height="30" src="https://github.com/JessieLuo30/JessieLuo30/blob/main/languages/python.png"></a>&nbsp;
 <a target="_blank"><img height="30" src="https://github.com/JessieLuo30/JessieLuo30/blob/main/languages/figma.png"></a>
 <a target="_blank"><img height="30" src="https://github.com/JessieLuo30/JessieLuo30/blob/main/languages/swift.png"></a>&nbsp;
@@ -37,10 +37,10 @@ I'm a creative problem solving enthusiast with a constantly growing curiosity. A
 
 ## GitHub Stats
 
-<a href="https://github.com/MartinHeinz/MartinHeinz">
+<a href="https://github.com/JessieLuo30">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessieLuo30&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
+<a href="https://github.com/JessieLuo30">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JessieLuo30&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
