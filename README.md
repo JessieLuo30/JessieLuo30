@@ -1,9 +1,9 @@
 <h1>Welcome (●’◡’●)ﾉ</h1>
 
 <p align="left">
-<a href="https://twitter.com/MairaAbhishek" target="_blank"><img height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
+<a href="https://www.linkedin.com/in/jessie-luo-bc076/" target="_blank"><img height="30" src="https://github.com/JessieLuo30/JessieLuo30/blob/main/linkedin.png"></a>
 &nbsp;&nbsp;
-<a href="mailto:jluo30@jhu.edu" target="_blank"><img height="30" src="https://icons-for-free.com/download-icon-book+contact+contacts+email+mail+outlook+square+icon-1320073245294195685_512.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:jluo30@jhu.edu" target="_blank"><img height="30" src="https://github.com/JessieLuo30/JessieLuo30/blob/main/mail.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
 
