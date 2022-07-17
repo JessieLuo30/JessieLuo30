@@ -14,7 +14,7 @@ I'm a creative problem solving enthusiast with a constantly growing curiosity. A
 - 🌱 I’m currently learning IOS development and wechat mini-programs
 - 👯 I'm looking to collaborate on full stack web apps
 - 😄 Pronouns: she/her
-- 🌶️ Fun fact: I cook every dish with chili sauce
+- 🌶️ Fun fact: I add chili sauce to every dish I cook
 - 🔗 My website: [https://jessie-luo-portfolio.netlify.app](https://jessie-luo-portfolio.netlify.app)
 
 
