@@ -1,4 +1,4 @@
-<h1>Welcome (●’◡’●)ﾉ</h1>
+<h1>♡ Welcome (●’◡’●)ﾉ</h1>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/jessie-luo-bc076/" target="_blank"><img height="30" src="https://github.com/JessieLuo30/JessieLuo30/blob/main/linkedin.png"></a>
