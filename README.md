@@ -1,4 +1,5 @@
-### Hi there 👋
+
+![WechatIMG702](https://user-images.githubusercontent.com/77982805/179379438-f0e229e0-8636-454d-b301-768c6a74dfcf.jpeg)
 
 - 🔭 I’m currently working on Groovv, Ucredit, Google SPS
 - 🌱 I’m currently learning IOS development
