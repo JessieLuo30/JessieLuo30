@@ -18,14 +18,14 @@ I'm a creative problem solving enthusiast with a constantly growing curiosity. A
 - 🔗 My website: [https://jessie-luo-portfolio.netlify.app](https://jessie-luo-portfolio.netlify.app)
 
 
-### Main Languages
+## Main Languages
 <a target="_blank"><img height="30" src="https://github.com/JessieLuo30/JessieLuo30/blob/main/languages/c.png"></a>&nbsp;
 <a target="_blank"><img height="30" src="https://github.com/JessieLuo30/JessieLuo30/blob/main/languages/sql.png"></a>&nbsp;
 <a target="_blank"><img height="30" src="https://github.com/JessieLuo30/JessieLuo30/blob/main/languages/react.png"></a>&nbsp;
 <a target="_blank"><img height="30" src="https://github.com/JessieLuo30/JessieLuo30/blob/main/languages/js.png"></a>
 <a target="_blank"><img height="30" src="https://github.com/JessieLuo30/JessieLuo30/blob/main/languages/java.png"></a>&nbsp;
 
-### Other Technologies & Tools
+## Other Technologies & Tools
 <a target="_blank"><img height="30" src="https://github.com/JessieLuo30/JessieLuo30/blob/main/languages/tailwind.png"></a>&nbsp;
 <a target="_blank"><img height="30" src="https://github.com/JessieLuo30/JessieLuo30/blob/main/languages/python.png"></a>&nbsp;
 <a target="_blank"><img height="30" src="https://github.com/JessieLuo30/JessieLuo30/blob/main/languages/figma.png"></a>
@@ -33,7 +33,6 @@ I'm a creative problem solving enthusiast with a constantly growing curiosity. A
 <a target="_blank"><img height="30" src="https://github.com/JessieLuo30/JessieLuo30/blob/main/languages/html.png"></a>&nbsp;
 <a target="_blank"><img height="30" src="https://github.com/JessieLuo30/JessieLuo30/blob/main/languages/mongo.png"></a>&nbsp;
 <a target="_blank"><img height="30" src="https://github.com/JessieLuo30/JessieLuo30/blob/main/languages/ps.png"></a>&nbsp;
-<hr>
 
 ## GitHub Stats
 
