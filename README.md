@@ -7,7 +7,8 @@
 
 </p>
 
-Hi! This is <b>Jessie Luo</b>, a junior majoring in Computer Science and Computer Engineering at Johns Hopkins Univeristy.
+## About Me
+Hi! My name is <b>Jessie Luo</b>, a junior majoring in Computer Science and Computer Engineering at Johns Hopkins Univeristy.
 <br><br>
 I'm a creative problem solving enthusiast with a constantly growing curiosity. Always ready to start on new projects and learn new skills. Besides Hacking stuff, I like cooking, crochet, badminton, and fishing.
 <br>
