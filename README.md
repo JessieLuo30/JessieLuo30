@@ -16,15 +16,15 @@ I'm a creative problem solving enthusiast with a constantly growing curiosity. A
 - 👯 I'm looking to collaborate on full stack web apps
 - 😄 Pronouns: she/her
 - 🌶️ Fun fact: I add chili sauce to every dish I cook
-- 🔗 My website: [https://jessie-luo-portfolio.netlify.app](https://jessie-luo-portfolio.netlify.app)
+- 🔗 My website: [https://jessieluo.netlify.app](https://jessieluo.netlify.app)
 
 
 ## Main Languages
-<a target="_blank" href="https://jessie-luo-portfolio.netlify.app/portfolio/backend"><img height="30" src="https://github.com/JessieLuo30/JessieLuo30/blob/main/languages/c.png"></a>&nbsp;
-<a target="_blank" href="https://jessie-luo-portfolio.netlify.app/portfolio/databases"><img height="30" src="https://github.com/JessieLuo30/JessieLuo30/blob/main/languages/sql.png"></a>&nbsp;
-<a target="_blank" href="https://jessie-luo-portfolio.netlify.app/portfolio/frontend"><img height="30" src="https://github.com/JessieLuo30/JessieLuo30/blob/main/languages/react.png"></a>&nbsp;
-<a target="_blank"  href="https://jessie-luo-portfolio.netlify.app/portfolio/frontend"><img height="30" src="https://github.com/JessieLuo30/JessieLuo30/blob/main/languages/js.png"></a>
-<a target="_blank"  href="https://jessie-luo-portfolio.netlify.app/portfolio/backend"><img height="30" src="https://github.com/JessieLuo30/JessieLuo30/blob/main/languages/java.png"></a>&nbsp;
+<a target="_blank" href="https://jessieluo.netlify.app/portfolio/backend"><img height="30" src="https://github.com/JessieLuo30/JessieLuo30/blob/main/languages/c.png"></a>&nbsp;
+<a target="_blank" href="https://jessieluo.netlify.app/portfolio/databases"><img height="30" src="https://github.com/JessieLuo30/JessieLuo30/blob/main/languages/sql.png"></a>&nbsp;
+<a target="_blank" href="https://jessieluo.netlify.app/portfolio/frontend"><img height="30" src="https://github.com/JessieLuo30/JessieLuo30/blob/main/languages/react.png"></a>&nbsp;
+<a target="_blank"  href="https://jessieluo.netlify.app/portfolio/frontend"><img height="30" src="https://github.com/JessieLuo30/JessieLuo30/blob/main/languages/js.png"></a>
+<a target="_blank"  href="https://jessieluo.netlify.app/portfolio/backend"><img height="30" src="https://github.com/JessieLuo30/JessieLuo30/blob/main/languages/java.png"></a>&nbsp;
 
 ## Other Technologies & Tools
 <a target="_blank" ><img height="30" src="https://github.com/JessieLuo30/JessieLuo30/blob/main/languages/tailwind.png"></a>&nbsp;
