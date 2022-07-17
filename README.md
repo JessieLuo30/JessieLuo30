@@ -9,24 +9,30 @@
 
 Hi! This is <b>Jessie Luo</b>, a junior majoring in Computer Science and Computer Engineering at Johns Hopkins Univeristy.
 <br><br>
-I'm a creative problem solving enthusiast with a constantly growing curiosity. Always ready to start on new projects and learn new skills. Besides Hacking stuff, I love hiking, crochet, badminton, and fishing.
+I'm a creative problem solving enthusiast with a constantly growing curiosity. Always ready to start on new projects and learn new skills. Besides Hacking stuff, I like cooking, crochet, badminton, and fishing.
 <br>
 - 🌱 I’m currently learning IOS development and wechat mini-programs
 - 👯 I'm looking to collaborate on full stack web apps
 - 😄 Pronouns: she/her
 - 🌶️ Fun fact: I cook every dish with chili sauce
- - 🔗 My website: [https://jessie-luo-portfolio.netlify.app](https://jessie-luo-portfolio.netlify.app)
+- 🔗 My website: [https://jessie-luo-portfolio.netlify.app](https://jessie-luo-portfolio.netlify.app)
 
 
-### Languages
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
+### Main Languages
+<a target="_blank"><img height="30" src="https://github.com/JessieLuo30/JessieLuo30/blob/main/languages/c.png"></a>&nbsp;
+<a target="_blank"><img height="30" src="https://github.com/JessieLuo30/JessieLuo30/blob/main/languages/sql.png"></a>&nbsp;
+<a target="_blank"><img height="30" src="https://github.com/JessieLuo30/JessieLuo30/blob/main/languages/react.png"></a>&nbsp;
+<a target="_blank"><img height="30" src="https://github.com/JessieLuo30/JessieLuo30/blob/main/languages/java.png"></a>&nbsp;
+<a target="_blank"><img height="30" src="https://github.com/JessieLuo30/JessieLuo30/blob/main/languages/tsx.png"></a>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
+### Other Technologies & Tools
+<a target="_blank"><img height="30" src="https://github.com/JessieLuo30/JessieLuo30/blob/main/languages/tailwind.png"></a>&nbsp;
+<a target="_blank"><img height="30" src="https://github.com/JessieLuo30/JessieLuo30/blob/main/languages/python.png"></a>&nbsp;
+<a target="_blank"><img height="30" src="https://github.com/JessieLuo30/JessieLuo30/blob/main/languages/figma.png"></a>
+<a target="_blank"><img height="30" src="https://github.com/JessieLuo30/JessieLuo30/blob/main/languages/swift.png"></a>&nbsp;
+<a target="_blank"><img height="30" src="https://github.com/JessieLuo30/JessieLuo30/blob/main/languages/html.png"></a>&nbsp;
+<a target="_blank"><img height="30" src="https://github.com/JessieLuo30/JessieLuo30/blob/main/languages/mongo.png"></a>&nbsp;
+<a target="_blank"><img height="30" src="https://github.com/JessieLuo30/JessieLuo30/blob/main/languages/ps.png"></a>&nbsp;
 <hr>
 
 
