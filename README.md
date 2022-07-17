@@ -22,8 +22,8 @@ I'm a creative problem solving enthusiast with a constantly growing curiosity. A
 <a target="_blank"><img height="30" src="https://github.com/JessieLuo30/JessieLuo30/blob/main/languages/c.png"></a>&nbsp;
 <a target="_blank"><img height="30" src="https://github.com/JessieLuo30/JessieLuo30/blob/main/languages/sql.png"></a>&nbsp;
 <a target="_blank"><img height="30" src="https://github.com/JessieLuo30/JessieLuo30/blob/main/languages/react.png"></a>&nbsp;
+<a target="_blank"><img height="30" src="https://github.com/JessieLuo30/JessieLuo30/blob/main/languages/js.png"></a>
 <a target="_blank"><img height="30" src="https://github.com/JessieLuo30/JessieLuo30/blob/main/languages/java.png"></a>&nbsp;
-<a target="_blank"><img height="30" src="https://github.com/JessieLuo30/JessieLuo30/blob/main/languages/tsx.png"></a>
 
 ### Other Technologies & Tools
 <a target="_blank"><img height="30" src="https://github.com/JessieLuo30/JessieLuo30/blob/main/languages/tailwind.png"></a>&nbsp;
