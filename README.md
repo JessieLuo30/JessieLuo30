@@ -10,7 +10,7 @@
 ## About Me
 Hi! My name is <b>Jessie Luo</b>, a junior majoring in Computer Science and Computer Engineering at Johns Hopkins Univeristy.
 <br><br>
-I'm a creative problem solving enthusiast with a constantly growing curiosity. Always ready to start on new projects and learn new skills. Besides Hacking stuff, I like cooking, crochet, badminton, and fishing.
+I'm a creative problem solving enthusiast with a constantly growing curiosity. Always ready to start on new projects and learn new skills. Apart from hacking stuff, I like cooking, crochet, badminton, and fishing.
 <br>
 - 🌱 I’m currently learning IOS development and wechat mini-programs
 - 👯 I'm looking to collaborate on full stack web apps
